@@ -1,11 +1,11 @@
 # Site settings
-author: Matthew Lewandowski
-title: 
+author: Matthew
+title: Oh, Technology
 header-img: img/home-bg.png
 email: matthew.lewandowski@wework.com
-copyright_name: Matthew Lewandowski
+copyright_name: Matthew
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Sometimes to go forward, you have to go backward
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  LithiumSquid
